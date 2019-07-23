@@ -1,0 +1,12 @@
+package model
+
+import "fmt"
+
+/*
+func (n *int) CheckNum() {
+	if n%2 != 0 {
+		fmt.Println(n, "是奇数")
+	} else {
+		fmt.Println(n, "是偶数")
+	}
+}*/
